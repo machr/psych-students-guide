@@ -1,4 +1,9 @@
 ---
+// import { getCollection, getEntryBySlug } from 'astro:content';
+// const allChapters = await getCollection('chapters')
+
+const items = await Astro.glob(['../content/chapters/*.md']);
+console.log(items)
 ---
 
 <html lang="en">
@@ -11,5 +16,8 @@
 	</head>
 	<body>
 		<h1>Astro</h1>
+		{items.map(({ Content }) =>
+            <Content />
+        )}
 	</body>
 </html>
