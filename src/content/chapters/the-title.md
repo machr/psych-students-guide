@@ -1,0 +1,8 @@
+## THE TITLE
+
+The first part of your report that a reader is going to come across is the title. The title appears first on the title page (go figure), and then again as the heading for the lab report. A good title contains the central argument of the paper in clear and concise language. It should concisely summarize the thesis of your argument, informing the reader about the dependent and independent variables in your study (but without using the words “dependent variable” and “independent variable”, obviously). It should also ideally give some indication of the main finding of your study. “Ageing is Associated with a Decline in Episodic Memory” is a much better title than “The Effect of Ageing on Memory”. You are allowed to use jargon in the title. 
+
+Another thing to note is that, while being witty when writing a title can be good, it can all too easily backfire. In fact, a study by Sagi and Yechiam (2008) demonstrated that articles with highly amusing titles actually received fewer citations! A safer bet is to keep it clear and simple. Think about when you’re searching through Google Scholar, looking for relevant research – simple language makes a paper much easier to find and therefore more accessible (and more likely to be cited!). 
+
+If you would like to read some of the more amusing published journal article titles (purely for the sake of scientific inquiry, of course), check out this Slate article. My favorite (not featured in the article) is probably this one:
+![Alt text](/assets/the-title-figure.png)

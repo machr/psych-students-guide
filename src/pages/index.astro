@@ -1,9 +1,6 @@
 ---
-// import { getCollection, getEntryBySlug } from 'astro:content';
-// const allChapters = await getCollection('chapters')
+const items = await Astro.glob('../content/chapters/*.md');
 
-const items = await Astro.glob(['../content/chapters/*.md']);
-console.log(items)
 ---
 
 <html lang="en">
@@ -19,5 +16,6 @@ console.log(items)
 		{items.map(({ Content }) =>
             <Content />
         )}
+
 	</body>
 </html>
