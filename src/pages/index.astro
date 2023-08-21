@@ -12,7 +12,9 @@ const items = await Astro.glob('../content/chapters/*.md');
 		<title>Astro</title>
 	</head>
 	<body>
-		<h1>Astro</h1>
+		<h1>The Psychology Student’s Guide to Writing a Lab Report
+		</h1>
+		<span>Sarah Moneer</span>
 		{items.map(({ Content }) =>
             <Content />
         )}
